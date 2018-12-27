@@ -1,0 +1,31 @@
+.example-card {
+    max-width: 400px;
+  }
+.example-header-image {
+    background-image: url('src/assets/abba.jpg');
+    background-size: cover;
+}
+
+.grid-container {
+    margin: 20px;
+  }
+  
+  .dashboard-card {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    right: 15px;
+    bottom: 15px;
+    max-width: 400px;
+  }
+  
+  .more-button {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+  }
+  
+  .dashboard-card-content {
+    text-align: center;
+  }
+  
